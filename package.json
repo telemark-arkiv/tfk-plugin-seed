@@ -39,6 +39,6 @@
   "dependencies": {
     "mongojs": "^0.18.2",
     "xmlify": "^1.0.0",
-    "wreck": "^5.3.0"
+    "wreck": "^14.0.0"
   }
 }
