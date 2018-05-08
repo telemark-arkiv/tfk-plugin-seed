@@ -31,7 +31,7 @@
     "url": "http://github.com/telemark/tfk-plugin-seed/issues"
   },
   "devDependencies": {
-    "hapi": "8.8.1",
+    "hapi": "17.4.0",
     "jscs": "1.13.1",
     "mocha": "2.5.3",
     "supertest": "0.15.0"
